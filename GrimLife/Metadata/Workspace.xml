@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{98560302-a521-44a5-9802-51353e26ee28}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../GrimLife/GrimLife/Assets/FMODBanks</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{718f74db-726f-42d5-9e9c-e4b82f2a2f81}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{d6981c90-3154-46fa-a696-b5f49e47d71d}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{63071200-ab81-450d-a921-e9aff85b260d}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{c79f30de-d064-485d-9f39-7e43cc5e83ed}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{81db227d-db84-4bc3-ad1b-8738d7379d24}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{0c0aa54c-7ced-435b-85d0-49456bc62ffa}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{a2a26ba0-5a52-4c1c-90dd-5d9b9fb95aa7}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{8201ebd2-57c2-4d8b-8230-ec9f0d6d56df}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{4b2deab4-1254-4da6-923c-d2059035fd72}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{4d09fbc7-25b0-4265-9e43-cfcc0768e96a}</destination>
+		</relationship>
+	</object>
+</objects>
