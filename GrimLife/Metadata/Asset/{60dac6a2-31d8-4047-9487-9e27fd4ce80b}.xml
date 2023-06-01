@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="EncodableAsset" id="{a7033024-4401-4538-b09a-7447cf1945d7}">
+	<object class="EncodableAsset" id="{60dac6a2-31d8-4047-9487-9e27fd4ce80b}">
 		<property name="assetPath">
-			<value>SFX/</value>
+			<value>SFX/Player/Footsteps/Footsteps Gravel/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{a2a26ba0-5a52-4c1c-90dd-5d9b9fb95aa7}</destination>
