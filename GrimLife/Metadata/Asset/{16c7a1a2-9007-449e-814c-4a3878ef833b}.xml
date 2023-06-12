@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{16c7a1a2-9007-449e-814c-4a3878ef833b}">
+		<property name="assetPath">
+			<value>SFX/Player/Attacks/Swing/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a2a26ba0-5a52-4c1c-90dd-5d9b9fb95aa7}</destination>
+		</relationship>
+	</object>
+</objects>
