@@ -19,7 +19,7 @@
 			<value>4</value>
 		</property>
 		<property name="enumerationLabels">
-			<value>None</value>
+			<value>Default</value>
 			<value>Gravel</value>
 			<value>Stone</value>
 			<value>Wood</value>
